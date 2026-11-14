@@ -1,0 +1,9 @@
+{
+  "versionName": "0.4.2",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.4.2/TrackSphere-v0.4.2-debug.apk",
+  "sha256": "38ec2a22b8bf841127d13cf68dfe5504c5a2dbc09a2d9a18c25bdcefa81f2a61",
+  "releaseNotes": "Login diagnostics, startup breadcrumbs, and Live dashboard map isolation. Tap Load map to initialize MapLibre after login.",
+  "mandatory": false,
+  "minSupportedVersionCode": 3
+}
