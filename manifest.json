@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.2",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.4.2/TrackSphere-v0.4.2-debug.apk",
-  "sha256": "38ec2a22b8bf841127d13cf68dfe5504c5a2dbc09a2d9a18c25bdcefa81f2a61",
-  "releaseNotes": "Login diagnostics, startup breadcrumbs, and Live dashboard map isolation. Tap Load map to initialize MapLibre after login.",
-  "mandatory": false,
-  "minSupportedVersionCode": 3
+    "versionName":  "0.5.2",
+    "versionCode":  10,
+    "apkUrl":  "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.5.2/TrackSphere-v0.5.2-debug.apk",
+    "sha256":  "357c6b3f937d6d73b83b081559e078482d0c990c9702399193bb966610354ff8",
+    "releaseNotes":  "Stabilizes the live pin indoors and keeps unconfirmed GPS jumps out of trip distance and playback.",
+    "mandatory":  false,
+    "minSupportedVersionCode":  3
 }
