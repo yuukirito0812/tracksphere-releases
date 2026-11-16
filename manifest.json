@@ -1,9 +1,9 @@
 {
-    "versionName":  "0.5.5",
-    "versionCode":  13,
-    "apkUrl":  "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.5.5/TrackSphere-v0.5.5-debug.apk",
-    "sha256":  "97a7bcf0c3f7bfb897b0b2b1a4b7c9dadef9cc27c8f8afafd7a6a0ce9f52c84c",
-    "releaseNotes":  "Faster movement detection, fresh location on demand, labeled route gaps and day-by-day history.",
+    "versionName":  "0.5.6",
+    "versionCode":  14,
+    "apkUrl":  "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.5.6/TrackSphere-v0.5.6-debug.apk",
+    "sha256":  "5d97fdb78b98ff7277a9f44477ce7b6ddf7aeaa45ac5c33976a8b932acd654e6",
+    "releaseNotes":  "Offline History, full trips across midnight, tracking diagnostics, and opt-in circle photos.",
     "mandatory":  false,
     "minSupportedVersionCode":  3
 }
