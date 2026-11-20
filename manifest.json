@@ -1,9 +1,9 @@
 {
-    "versionName":  "0.5.6",
-    "versionCode":  14,
-    "apkUrl":  "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.5.6/TrackSphere-v0.5.6-debug.apk",
-    "sha256":  "5d97fdb78b98ff7277a9f44477ce7b6ddf7aeaa45ac5c33976a8b932acd654e6",
-    "releaseNotes":  "Offline History, full trips across midnight, tracking diagnostics, and opt-in circle photos.",
+    "versionName":  "0.5.7",
+    "versionCode":  15,
+    "apkUrl":  "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.5.7/TrackSphere-v0.5.7-debug.apk",
+    "sha256":  "73c407d505c3a61ee72f30e649a98e64bbf8e0b9288442e17cc034ddaa4faa5f",
+    "releaseNotes":  "Continuous sharing with a remembered Off setting and automatic recovery after reboot and app updates.",
     "mandatory":  false,
     "minSupportedVersionCode":  3
 }
