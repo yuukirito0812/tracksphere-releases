@@ -1,9 +1,9 @@
 {
-    "versionName":  "0.5.7",
-    "versionCode":  15,
-    "apkUrl":  "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.5.7/TrackSphere-v0.5.7-debug.apk",
-    "sha256":  "73c407d505c3a61ee72f30e649a98e64bbf8e0b9288442e17cc034ddaa4faa5f",
-    "releaseNotes":  "Continuous sharing with a remembered Off setting and automatic recovery after reboot and app updates.",
+    "versionName":  "0.5.8",
+    "versionCode":  16,
+    "apkUrl":  "https://github.com/yuukirito0812/tracksphere-releases/releases/download/v0.5.8/TrackSphere-v0.5.8-debug.apk",
+    "sha256":  "b7c06cf2d70609427d47cce93e471d503c85c8c589ffb589e02ceec7e386146e",
+    "releaseNotes":  "Circle battery and movement estimates, offline rides, and automatic history sync over Wi-Fi or cellular.",
     "mandatory":  false,
     "minSupportedVersionCode":  3
 }
